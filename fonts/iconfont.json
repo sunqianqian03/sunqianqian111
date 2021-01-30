@@ -1,0 +1,121 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "52104",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1727154",
+      "name": "喇叭",
+      "font_class": "message",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "3512407",
+      "name": "左箭头",
+      "font_class": "arrow-right",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "4970802",
+      "name": "喇叭",
+      "font_class": "laba",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "5338775",
+      "name": "喇叭",
+      "font_class": "laba1",
+      "unicode": "e511",
+      "unicode_decimal": 58641
+    },
+    {
+      "icon_id": "7642510",
+      "name": "人",
+      "font_class": "repair_people",
+      "unicode": "e54e",
+      "unicode_decimal": 58702
+    },
+    {
+      "icon_id": "9625888",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "10126064",
+      "name": "右箭头",
+      "font_class": "arrow-left",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "11305144",
+      "name": "发送",
+      "font_class": "fasong1",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12873756",
+      "name": "发送",
+      "font_class": "fasong2",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "13263416",
+      "name": "退款",
+      "font_class": "tuikuan",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "14953280",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e57b",
+      "unicode_decimal": 58747
+    },
+    {
+      "icon_id": "15723709",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "16497383",
+      "name": "向下箭头",
+      "font_class": "arrD",
+      "unicode": "e517",
+      "unicode_decimal": 58647
+    },
+    {
+      "icon_id": "16603002",
+      "name": "电 话",
+      "font_class": "dianhua1",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "18922407",
+      "name": "电  话",
+      "font_class": "dianhua2",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
